@@ -28,6 +28,7 @@ Time limit: 10 seconds.
 1≤K≤26.*/
 
 //This algorithm has a bad time as well as space complexity
+//takes 2min 1.909s to run test case 2
 
 
 #include <bits/stdc++.h>
